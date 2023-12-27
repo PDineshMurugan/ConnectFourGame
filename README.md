@@ -19,7 +19,7 @@ Connect Four is a two-player connection game in which the players first choose a
 
 ## Demo
 
-dotgame.great-site.net
+link: #dotgame.great-site.net
 
 ## Features
 
@@ -40,18 +40,8 @@ dotgame.great-site.net
 
 To run the game locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/connect-four.git`
+1. Clone this repository: `dotgame.great-site.net`
 2. Open `index.html` in your preferred web browser.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make modifications and commit changes (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature/improvement`).
-5. Create a pull request.
 
 ## License
 
