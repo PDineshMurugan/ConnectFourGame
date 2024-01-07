@@ -6,7 +6,7 @@ This is a simple implementation of the classic Connect Four game using HTML, CSS
 ## Table of Contents
 
 - [About the Game](#about-the-game)
-- [Demo](dotgame.great-site.net)
+- [Demo](https://pdineshmurugan.github.io/ConnectFourGame/)
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
@@ -18,8 +18,7 @@ This is a simple implementation of the classic Connect Four game using HTML, CSS
 Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping colored discs from the top into a grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
 
 ## Demo
-
-link: #dotgame.great-site.net
+- (https://pdineshmurugan.github.io/ConnectFourGame/)
 
 ## Features
 
